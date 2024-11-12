@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Washla/static/css/main.6ef9240d.css",
+    "main.js": "/Washla/static/js/main.6b2a2345.js",
+    "static/media/girl2.jpg": "/Washla/static/media/girl2.b5162bef1f65ac059744.jpg",
+    "static/media/one.jpg": "/Washla/static/media/one.e75e36c7d9967579faf4.jpg",
+    "static/media/two.jpg": "/Washla/static/media/two.800fc70fed777a365a76.jpg",
+    "static/media/three.jpg": "/Washla/static/media/three.adc0025a9dcab17606c4.jpg",
+    "static/media/Cleaning.jpg": "/Washla/static/media/Cleaning.ddba3ff3ef5d53da48d1.jpg",
+    "static/media/rightside.jpeg": "/Washla/static/media/rightside.717e34ff3db6af154edb.jpeg",
+    "index.html": "/Washla/index.html",
+    "main.6ef9240d.css.map": "/Washla/static/css/main.6ef9240d.css.map",
+    "main.6b2a2345.js.map": "/Washla/static/js/main.6b2a2345.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ef9240d.css",
+    "static/js/main.6b2a2345.js"
+  ]
+}
