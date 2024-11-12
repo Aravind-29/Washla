@@ -11,7 +11,7 @@ export default function Hero() {
 
 
   return (
-    <div className="bg-white custom-background">
+    <div className="bg-white custom-background ">
         <Nav/>
     <div class="grid max-w-screen-xl px-12 py-12 sm mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 text-center sm:text-left ">
         <div class="mr-auto place-self-center lg:col-span-7 pb-16">

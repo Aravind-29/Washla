@@ -71,7 +71,7 @@ export default function News (){
 
 function Card ({name, para, personname, postion,personurl,image,number,month}){
     return(
-<div class="min-h-screen flex justify-center items-center">
+<div class=" flex justify-center items-center">
   <div class="container flex justify-center">
     <div class="max-w-sm ">
       <div class="bg-white relative shadow-lg hover:shadow-xl transition duration-500 rounded-lg">
